@@ -35,7 +35,6 @@
 #topnav ul li { display:inline; text-align:center;}
 #topnav ul li a { float:left; padding:10px 20px; text-align:center;}
 
-
 #topnav a:link { color:#ffffff;}
 #topnav a:visited { color:#ffffff;}
 #topnav a:active { color:#ffffff;}
